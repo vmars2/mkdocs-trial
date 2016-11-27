@@ -1,0 +1,8 @@
+site_name: My Docs
+site_description: My first trial with mkdocs
+theme: readthedocs
+pages:
+- ['index.md', 'Index']
+- ['start.md', 'Get Started']
+- ['config/setup.md', 'Configuration', 'Setup']
+- ['config/debug.md', 'Configuration', 'Debug']
