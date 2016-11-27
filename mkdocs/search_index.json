@@ -49,6 +49,16 @@
             "location": "/config/debug/#this-page-describes-how-to-debug", 
             "text": "This page describes how to  debug", 
             "title": "This page describes how to debug"
+        }, 
+        {
+            "location": "/random/", 
+            "text": "This is a random page\n\n\nThe purpose of this page, is to simulate an ordinary process of documentation update.", 
+            "title": "Random page"
+        }, 
+        {
+            "location": "/random/#this-is-a-random-page", 
+            "text": "The purpose of this page, is to simulate an ordinary process of documentation update.", 
+            "title": "This is a random page"
         }
     ]
 }
