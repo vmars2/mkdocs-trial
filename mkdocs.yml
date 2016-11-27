@@ -6,3 +6,4 @@ pages:
 - ['start.md', 'Get Started']
 - ['config/setup.md', 'Configuration', 'Setup']
 - ['config/debug.md', 'Configuration', 'Debug']
+- ['random.md', 'Random page']
